@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Austin Powers: International Man of Mystery",
+            "yearReleased": 1997
+        },
+        {
+            "id": 2,
+            "title": "Austin Powers: The Spy Who Shagged Me",
+            "yearReleased": 1999
+        },
+        {
+            "id": 3,
+            "title": "Austin Powers in Goldmember",
+            "yearReleased": 2002
+        }
+    ]
+}
