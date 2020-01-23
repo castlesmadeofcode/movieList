@@ -10,7 +10,7 @@ const movieFactory = (movie) => {
 const renderMovies = (movies) => {
     const movieContainer = document.querySelector("#movieContainer");
     movies.forEach(movie => {
-    movieContainer.innerHTML += movieFactory(movie);
-        
+        movieContainer.innerHTML += movieFactory(movie);
+
     })
 };
